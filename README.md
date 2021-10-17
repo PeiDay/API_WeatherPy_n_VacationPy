@@ -1,2 +1,2 @@
 # Python-API-Challenge
-WeatherPy and VacationPy
+Weather and Vacation
