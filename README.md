@@ -1,6 +1,6 @@
 # Python API - What's the Weather Like?
 
-![heatmap.png](https://github.com/PeiDay/Python-API-Challenge/blob/main/VacationPy/Images/heatmap.png)
+![travelimage.jpeg](https://github.com/PeiDay/Python-API-Challenge/blob/main/travelimage.jpeg)
 
 ## Background
 
